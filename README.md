@@ -26,12 +26,12 @@
 
 ---
 
-### 🌌 About Me
+## 👨💻 About Me
 
-- 💻 **Core Engine**: Deeply focused on the **Java** ecosystem & **Go (Golang)** concurrency paradigms.
-- ⚡ **Architecture**: Crafting microservices using **Spring Boot**, designing distributed systems, and tuning high-performance reverse proxies with **Nginx**.
-- ☁️ **Infrastructure**: Leveraging **Linux** systems programming and **Docker** containerization for seamless cloud-native deployments.
-- 🎯 **Pursuit**: Building elegant solutions to tackle concurrency bottlenecks, data consistency, and low-latency challenges.
+* 🎯 **My Mission**: Deeply passionate about lightweight, privacy-first software ecosystems. I strictly despise bloated software and aim to build clean, performant applications by cutting out useless features.
+* 🛠️ **Current Project**: Engineering **VanishClip**, a super lightweight, core-offline Windows clipboard history tool designed with a highly extensible plugin architecture so users only pull in what they truly need.
+* 🚀 **Growth Stack**: A reliable Backend Software Engineer deeply focused on the **Java** and **Go (Golang)** ecosystems, actively shifting boundaries towards becoming a capable **Full-Stack Developer**.
+* ⚡ **Philosophy**: Keep it clean, keep it fast, and make it scalable.
 
 ---
 
