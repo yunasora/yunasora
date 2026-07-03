@@ -61,11 +61,24 @@
 
 ### 🤝 Connect with Me
 
-<p align="left">
-  <a href="mailto:yunasora.in@gmail.com"><img src="https://img.shields.io/badge/Gmail-0284C7?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  &nbsp;
-  <a href="https://x.com/Yunasora"><img src="https://img.shields.io/badge/X-0284C7?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-</p>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="middle">
+      <a href="mailto:yunasora.in@gmail.com">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" />
+      </a>
+    </td>
+    <td width="25"></td>
+    <td align="center" valign="middle">
+      <a href="https://x.com/Yunasora">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo_2023_%28white%29.svg">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023.svg" alt="X" height="26" />
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
