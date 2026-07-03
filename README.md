@@ -1,91 +1,58 @@
+<!-- Welcome Header -->
 <div align="center">
-<img src="https://yunasora.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Yunasora, a full-time a backend software engineer working on cloud-native architecture.</div>  
-  
-
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/yunasora/github-profilinator)  
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+  <h1>👋 Hi, I'm Yunasora</h1>
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Backend+Software+Engineer;Distributed+Systems+Enthusiast;Cloud+Native+Developer" alt="Typing SVG" />
+  </p>
+  <p align="center">
+    🚀 <i>Building highly scalable, fault-tolerant, and performant backend systems.</i>
+  </p>
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yunasora&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://yunasora.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=yunasora&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-            </a></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<!-- Tech Badges -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-1E293B?style=for-the-badge&logo=openjdk&logoColor=38BDF8" alt="Java" />
+  <img src="https://img.shields.io/badge/Go-1E293B?style=for-the-badge&logo=go&logoColor=38BDF8" alt="Go" />
+  <img src="https://img.shields.io/badge/Spring_Boot-1E293B?style=for-the-badge&logo=springboot&logoColor=38BDF8" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Docker-1E293B?style=for-the-badge&logo=docker&logoColor=38BDF8" alt="Docker" />
+  <img src="https://img.shields.io/badge/Nginx-1E293B?style=for-the-badge&logo=nginx&logoColor=38BDF8" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Linux-1E293B?style=for-the-badge&logo=linux&logoColor=38BDF8" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-1E293B?style=for-the-badge&logo=git&logoColor=38BDF8" alt="Git" />
+</div>
+
+<br />
+
+---
+
+### 🌌 About Me
+
+- 💻 **Core Engine**: Deeply focused on the **Java** ecosystem & **Go (Golang)** concurrency paradigms.
+- ⚡ **Architecture**: Crafting microservices using **Spring Boot**, designing distributed systems, and tuning high-performance reverse proxies with **Nginx**.
+- ☁️ **Infrastructure**: Leveraging **Linux** systems programming and **Docker** containerization for seamless cloud-native deployments.
+- 🎯 **Pursuit**: Building elegant solutions to tackle concurrency bottlenecks, data consistency, and low-latency challenges.
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<p align="center">
+  <a href="https://github.com/yunasora">
+    <img src="https://github-readme-stats.vercel.app/api?username=yunasora&show_icons=true&theme=react&border_radius=10" height="195" alt="Yunasora's GitHub Stats" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/yunasora">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunasora&layout=compact&theme=react&border_radius=10" height="195" alt="Yunasora's Top Languages" />
+  </a>
+</p>
+
+<br />
+
+---
+
+<!-- Visitor Counter & Footer -->
+<div align="center">
+  <p>💡 <i>"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra</i></p>
+  <img src="https://komarev.com/ghpvc/?username=yunasora&color=38bdf8&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Counter" />
+</div>
