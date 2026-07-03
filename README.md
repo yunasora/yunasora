@@ -13,13 +13,13 @@
 
 <!-- Tech Badges -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-E0F2FE?style=for-the-badge&logo=openjdk&logoColor=0369A1" alt="Java" />
-  <img src="https://img.shields.io/badge/Go-E0F2FE?style=for-the-badge&logo=go&logoColor=0369A1" alt="Go" />
-  <img src="https://img.shields.io/badge/Spring_Boot-E0F2FE?style=for-the-badge&logo=springboot&logoColor=0369A1" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Docker-E0F2FE?style=for-the-badge&logo=docker&logoColor=0369A1" alt="Docker" />
-  <img src="https://img.shields.io/badge/Nginx-E0F2FE?style=for-the-badge&logo=nginx&logoColor=0369A1" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Linux-E0F2FE?style=for-the-badge&logo=linux&logoColor=0369A1" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-E0F2FE?style=for-the-badge&logo=git&logoColor=0369A1" alt="Git" />
+  <img src="https://img.shields.io/badge/Java-0284C7?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Go-0284C7?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Spring_Boot-0284C7?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Docker-0284C7?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Nginx-0284C7?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Linux-0284C7?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-0284C7?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
 <br />
@@ -37,17 +37,35 @@
 
 ### 📊 GitHub Activity & Metrics
 
-<p align="center">
-  <a href="https://github.com/yunasora">
-    <img src="https://github-stats-extended.vercel.app/api?username=yunasora&show_icons=true&bg_color=ffffff&title_color=0284C7&text_color=334155&icon_color=0284C7&border_color=cbd5e1&border_radius=10" height="195" alt="Yunasora's GitHub Stats" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/yunasora">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yunasora&layout=compact&bg_color=ffffff&title_color=0284C7&text_color=334155&icon_color=0284C7&border_color=cbd5e1&border_radius=10" height="195" alt="Yunasora's Top Languages" />
-  </a>
-</p>
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://github.com/yunasora">
+          <img src="https://github-stats-extended.vercel.app/api?username=yunasora&custom_title=Yunasora's+GitHub+Stats&show_icons=true&bg_color=ffffff&title_color=0284C7&text_color=334155&icon_color=0284C7&border_color=cbd5e1&border_radius=10" height="195" alt="Yunasora's GitHub Stats" />
+        </a>
+      </td>
+      <td width="20"></td>
+      <td align="center" valign="middle">
+        <a href="https://github.com/yunasora">
+          <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yunasora&layout=compact&bg_color=ffffff&title_color=0284C7&text_color=334155&icon_color=0284C7&border_color=cbd5e1&border_radius=10" height="195" alt="Yunasora's Top Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br />
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="mailto:yunasora.in@gmail.com"><img src="https://img.shields.io/badge/Gmail-0284C7?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  &nbsp;
+  <a href="https://x.com/Yunasora"><img src="https://img.shields.io/badge/X-0284C7?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+</p>
 
 ---
 
