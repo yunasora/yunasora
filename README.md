@@ -39,11 +39,11 @@
 
 <p align="center">
   <a href="https://github.com/yunasora">
-    <img src="https://github-readme-stats.vercel.app/api?username=yunasora&show_icons=true&theme=react&border_radius=10" height="195" alt="Yunasora's GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=yunasora&show_icons=true&theme=react&border_radius=10" height="195" alt="Yunasora's GitHub Stats" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/yunasora">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunasora&layout=compact&theme=react&border_radius=10" height="195" alt="Yunasora's Top Languages" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yunasora&layout=compact&theme=react&border_radius=10" height="195" alt="Yunasora's Top Languages" />
   </a>
 </p>
 
